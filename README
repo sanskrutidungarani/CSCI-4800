@@ -1,0 +1,58 @@
+Prototype Deliverable: README
+
+Overview
+Our prototype, eAnywhere, addresses a critical issue in education: the high cost and limited accessibility of EdTech tools for students, especially those from lower socioeconomic backgrounds. By creating a platform that combines free educational resources with online and offline functionality, we aim to bridge the digital divide and ensure equitable learning opportunities for all.
+
+
+Tools and Requirements
+To run this prototype, you will need:
+- Tool/Platform: Figma 
+- System Requirements: Internet connection for online access; compatible browser such as Chrome or Safari.
+
+
+
+How to Access the Prototype
+1. Source Files:
+   https://www.figma.com/design/wU83Xxf3rOjKcyYwzlsTLh/eAnywhere-Prototype?node-id=0-1&t=lcuv9UdZKyWnb5tA-1
+2. Executable Prototype:
+   https://www.figma.com/proto/wU83Xxf3rOjKcyYwzlsTLh/eAnywhere-Prototype?node-id=0-1&t=lcuv9UdZKyWnb5tA-1
+
+1. Launching the Prototype:
+   - Open the provided link to access the interactive platform.
+   - Log in using the credentials provided or create a new account if applicable.
+2. Navigating the Prototype:
+   - Explore core features such as secure account login, access to the educational toolbox, and offline exam functionality.
+   - Follow the on-screen prompts to navigate between sections and test functionalities.
+3. Testing Key Features:
+   - Login Process: Enter credentials to test account access.
+   - Educational Toolbox: Explore free resource sharing and downloading options.
+   - Offline Functionality: Simulate an offline scenario by downloading and interacting with tests offline.
+
+
+Known Limitations
+- Feature Incompleteness:
+  Language and localization can be an issue, the prototype only supports a single language, limiting accessibility for non-native speakers or international users.
+  Limited educational content can be an issue, the platform may not yet have a comprehensive library of free resources for all subjects or educational levels, requiring users to have get external materials.
+  Performance on low-end devices can be an issue, users with older or low-performance devices may experience a slower load times or reduced interactivity, especially with resource-heavy features.
+- Compatibility:
+  The platform is optimized for mobile browsers; desktop functionality is limited and will be improved in future updates.
+
+
+Walkthrough Overview
+1. User Login:
+   - Navigate to the login page and enter your username and password. Select "Login" to proceed.
+   - New users can create an account by selecting "Create a new account."
+2. Dashboard and Course Content:
+   - The main page displays your most recently viewed class.
+   - Customize the course overview with preferred images and explore class content by name.
+3. Personalized Tools:
+   - Create learning tools using templates or custom coding options.
+   - Modify existing tools or build new ones with advanced functionality like importing packages.
+4. Offline Exam Functionality:
+   - Navigate to the "Tests" section in the top menu to view available exams.
+   - Download exams for offline use and save progress while working offline.
+   - Submit completed exams remotely once reconnected to the internet.
+
+
+Thank you for reviewing our prototype!
+
